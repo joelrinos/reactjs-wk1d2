@@ -1,0 +1,12 @@
+.container {
+	padding: 1rem;
+	border:1px dotted #cecece;
+	cursor: pointer;
+}
+.container:hover {
+	background-color:#cecece;
+}
+hr {
+	border: none;
+	border-bottom: 1px dashed #cecece;
+}
