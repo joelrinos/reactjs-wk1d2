@@ -1,4 +1,4 @@
-# react-webpack-project
+# react-webpack
 This ia starter project, which based on React 18 and Webpack 5.
 
 After cloning this project. You need to run below commands.
